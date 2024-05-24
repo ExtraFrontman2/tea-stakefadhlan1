@@ -25,3 +25,24 @@ export default {
   // Component code here
 }
 </script>
+
+Features
+Help people to complete any task using Vue.js
+Contribution Guidelines
+We welcome contributions! Please follow the contribution guidelines below:
+
+Fork this repository.
+Create a new branch: git checkout -b your-feature.
+Make changes and commit your changes: git commit -am 'Add new feature'.
+Push to the branch: git push origin your-feature.
+Submit a pull request.
+For more information, see the repository.
+
+License Information
+For license information, please refer to the repository or DM me on Telegram @ExtraFrontman.
+
+Contact Information
+Telegram: @ExtraFrontman
+Additional Resources
+Vue.js Documentation
+Repository
