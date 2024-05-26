@@ -26,9 +26,14 @@ export default {
 }
 </script>
 
-Features
+
+
+### Features
+
 Help people to complete any task using Vue.js
-Contribution Guidelines
+
+#### Contribution Guidelines
+
 We welcome contributions! Please follow the contribution guidelines below:
 
 Fork this repository.
