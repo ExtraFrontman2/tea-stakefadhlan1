@@ -1,59 +1,71 @@
-# Hasil Analisis Proyek Teh
+# Analisis Konsumsi Teh di Dunia
 
-## Pendahuluan
+Berikut adalah analisis konsumsi teh di berbagai wilayah di dunia dalam bentuk diagram:
 
-Proyek ini, `tea-stakefadhlan1`, bertujuan untuk membantu pengguna dalam menyelesaikan tugas-tugas menggunakan Vue.js, dengan fokus pada penerapan teknologi modern dalam industri teh. Dalam bagian ini, kami akan memberikan analisa mengenai implementasi, fitur, dan manfaat dari proyek ini.
+## Diagram Konsumsi Teh (per Wilayah)
 
-## Implementasi
+          Konsumsi Teh di Dunia
+               ____
+  Asia        |60%|
+               ____
+Eropa |20%|
+____
+Amerika Utara |10%|
+____
+Amerika Selatan |5% |
+____
+Afrika |4% |
+____
+Australia/Oseania|1% |
 
-1. **Framework yang Digunakan**:
-   - Proyek ini menggunakan Vue.js, sebuah framework JavaScript yang progresif untuk membangun antarmuka pengguna. Vue.js dipilih karena kemudahan penggunaan dan fleksibilitasnya dalam membangun aplikasi web interaktif.
+markdown
+Salin kode
 
-2. **Langkah-langkah Instalasi**:
-   - Clone repositori: `git clone https://github.com/ExtraFrontman2/tea-stakefadhlan1.git`
-   - Instalasi dependensi: `npm install`
-   - Menjalankan proyek secara lokal: `npm run serve`
-   - Mengakses proyek di browser melalui `http://localhost:3000`
+## Penjelasan
 
-## Fitur Utama
+1. **Asia (60%)**: Asia adalah benua dengan konsumsi teh tertinggi di dunia. Negara-negara seperti Cina, India, dan Jepang memiliki tradisi minum teh yang sangat kuat dan beragam jenis teh yang terkenal.
+  
+2. **Eropa (20%)**: Eropa juga memiliki tradisi minum teh yang signifikan, terutama di negara-negara seperti Inggris dan Rusia.
+  
+3. **Amerika Utara (10%)**: Di Amerika Utara, teh semakin populer sebagai alternatif sehat bagi kopi.
+  
+4. **Amerika Selatan (5%)**: Di Amerika Selatan, teh herbal seperti yerba mate lebih populer, namun konsumsi teh tradisional juga ada.
+  
+5. **Afrika (4%)**: Afrika memiliki sejarah panjang dalam produksi teh, terutama di negara-negara seperti Kenya dan Malawi. Konsumsi dalam negeri juga terus meningkat.
+  
+6. **Australia/Oseania (1%)**: Di Australia dan wilayah Oseania, teh dinikmati tetapi tidak sepopuler kopi.
 
-- **Manajemen Tugas**:
-  Proyek ini membantu pengguna mengelola berbagai tugas yang berkaitan dengan produksi dan penyajian teh menggunakan komponen Vue.js.
+## Sumber Data
 
-- **Antarmuka Pengguna Dinamis**:
-  Antarmuka pengguna yang interaktif dan mudah digunakan memungkinkan pengguna untuk berinteraksi dengan aplikasi dengan mudah, menyesuaikan preferensi, dan melihat pembaruan secara real-time.
+Data ini didasarkan pada survei dan laporan industri teh global terbaru. Konsumsi persentase dapat bervariasi berdasarkan sumber dan tahun pengumpulan data.
 
-- **Komponen yang Dapat Digunakan Kembali**:
-  Komponen Vue.js yang dikembangkan dalam proyek ini dirancang untuk dapat digunakan kembali, memudahkan pengembang dalam menambah atau memodifikasi fitur sesuai kebutuhan.
+Diagram di atas menggunakan teks dan diagram ASCII sederhana untuk menggambarkan konsumsi teh di berbagai wilayah. Ini adalah cara yang mudah dan cepat untuk membuat diagram dalam file Markdown tanpa memerlukan grafik eksternal.
 
-## Manfaat
+Jika Anda membutuhkan diagram yang lebih kompleks atau visual, Anda bisa mempertimbangkan untuk menggunakan alat seperti mermaid.js yang bisa digunakan dalam file Markdown di beberapa platform (seperti GitHub):
 
-1. **Efisiensi Pengelolaan Tugas**:
-   Dengan memanfaatkan komponen Vue.js, pengguna dapat mengelola tugas mereka dengan lebih efisien, memastikan setiap langkah dalam proses produksi teh tercatat dengan baik.
+# Analisis Konsumsi Teh di Dunia
 
-2. **Pengalaman Pengguna yang Lebih Baik**:
-   Antarmuka pengguna yang intuitif dan responsif meningkatkan pengalaman pengguna, memungkinkan mereka untuk fokus pada tugas utama tanpa terganggu oleh kompleksitas teknis.
+```mermaid
+pie
+    title Konsumsi Teh di Dunia
+    "Asia" : 60
+    "Eropa" : 20
+    "Amerika Utara" : 10
+    "Amerika Selatan" : 5
+    "Afrika" : 4
+    "Australia/Oseania" : 1
+Penjelasan
+Asia (60%): Asia adalah benua dengan konsumsi teh tertinggi di dunia. Negara-negara seperti Cina, India, dan Jepang memiliki tradisi minum teh yang sangat kuat dan beragam jenis teh yang terkenal.
 
-3. **Skalabilitas**:
-   Proyek ini dirancang dengan prinsip-prinsip skalabilitas, memastikan bahwa aplikasi dapat berkembang seiring dengan kebutuhan dan ukuran data yang meningkat.
+Eropa (20%): Eropa juga memiliki tradisi minum teh yang signifikan, terutama di negara-negara seperti Inggris dan Rusia.
 
-## Cara Berkontribusi
+Amerika Utara (10%): Di Amerika Utara, teh semakin populer sebagai alternatif sehat bagi kopi.
 
-Kami sangat menghargai kontribusi dari siapa pun yang tertarik untuk membantu mengembangkan proyek ini. Berikut adalah langkah-langkah untuk berkontribusi:
+Amerika Selatan (5%): Di Amerika Selatan, teh herbal seperti yerba mate lebih populer, namun konsumsi teh tradisional juga ada.
 
-1. Fork repositori ini.
-2. Buat cabang baru: `git checkout -b fitur-anda`.
-3. Lakukan perubahan dan commit: `git commit -am 'Menambahkan fitur baru'`.
-4. Push ke cabang tersebut: `git push origin fitur-anda`.
-5. Buat pull request untuk menggabungkan perubahan.
+Afrika (4%): Afrika memiliki sejarah panjang dalam produksi teh, terutama di negara-negara seperti Kenya dan Malawi. Konsumsi dalam negeri juga terus meningkat.
 
-Untuk informasi lebih lanjut, lihat [panduan kontribusi](https://github.com/ExtraFrontman2/tea-stakefadhlan1).
+Australia/Oseania (1%): Di Australia dan wilayah Oseania, teh dinikmati tetapi  tidak sepopuler kopi.
 
-## Informasi Kontak
-
-Jika Anda memiliki pertanyaan atau membutuhkan bantuan lebih lanjut, silakan hubungi kami melalui Telegram di [@ExtraFrontman](https://t.me/ExtraFrontman).
-
-## Sumber Daya Tambahan
-
-- [Dokumentasi Vue.js](https://vuejs.org)
-- [Repositori GitHub](https://github.com/ExtraFrontman2/tea-stakefadhlan1
+Sumber Data
+Data ini berdasarkan survei oleh tim tea-stakefadhlan1 
